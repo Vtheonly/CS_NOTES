@@ -72,5 +72,3 @@ To return to normal mode from insert mode, press `Esc`.
 
 Or, to save and quit in one step:
 - Type `:wq` and press `Enter`.
-
-By mastering these basic commands and mode transitions, you can effectively use Vim for editing text files.
