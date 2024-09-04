@@ -1,6 +1,4 @@
-how to use random
-
-[[frequent methods  and librarys]]The `java.util.Random` class in Java is commonly used to generate random numbers. Below are some commonly used methods and functions provided by the `Random` class:
+The `java.util.Random` class in Java is commonly used to generate random numbers. Below are some commonly used methods and functions provided by the `Random` class:
 
 ### 1. Generating Random Integers:
 

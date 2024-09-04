@@ -1,6 +1,3 @@
-The provided text seems to outline the installation process for JavaFX SDK and configuring it with IntelliJ IDEA. Here's the corrected version:
-
----
 
 **INSTALLATION PROCESS**
 

@@ -1,4 +1,4 @@
-alter 
+
 1. GPU: RX 580 8GB - $120 12000da
 2. CPU: Ryzen 5 5500G - $100 8000da
 3. RAM: 16GB DDR4 - $120 6000da
