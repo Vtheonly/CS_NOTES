@@ -1,4 +1,3 @@
-Certainly! Let's break down the basics of using classes and objects in Java in a straightforward way:
 
 ### Class:
 

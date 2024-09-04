@@ -81,3 +81,6 @@ public class Main {
 ```
 
 Understanding methods and their usage is fundamental to Java programming. Methods allow you to create modular and reusable code, improving the structure and maintainability of your programs.
+
+
+[[25 - Static]]
