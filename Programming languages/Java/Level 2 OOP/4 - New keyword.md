@@ -1,6 +1,4 @@
-Certainly! Let's combine the explanations into one comprehensive answer:
 
----
 
 The `new` keyword in Java is used to create a new instance of a class. When you want to instantiate a class, you use the `new` keyword followed by the class constructor. Here's an example using the `Random` class from the `java.util` package:
 

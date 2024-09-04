@@ -30,7 +30,7 @@ In Java, the `const` keyword is not used as it is in some other programming lang
    }
    ```
 
-### Arrays in Java:
+### final in Arrays :
 
 When it comes to arrays in Java, the `final` keyword can be used in a different way. If a variable is declared as `final` and it is a reference to an array, the reference cannot be changed to point to a different array. However, the content of the array itself can still be modified.
 

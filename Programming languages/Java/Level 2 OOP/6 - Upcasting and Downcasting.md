@@ -1,6 +1,3 @@
-### Upcasting and Downcasting in Java:
-
-In Java, upcasting and downcasting are concepts related to class inheritance and object types.
 
 ### 1. Upcasting:
 
