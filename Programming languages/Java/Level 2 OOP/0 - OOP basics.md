@@ -71,6 +71,7 @@
   }
   ```
   - Constructors have the same name as the class and no return type. They are automatically called when an object is instantiated.
+  - One of the important property of java constructor is that **it can not be static**. We know static keyword belongs to a class rather than the object of a class. A constructor is called when an object of a class is created, so no use of the static constructor.
 
 - **Creating an Object with Constructor:**
   ```java
