@@ -3,7 +3,7 @@
 
    - [ ]  Understanding the tricks you did  like hashing and role based access the parameter sending to prevent SQL injection
 
-   - [ ]  Core Java Concepts: Begin with the basics of Java, including object- [ ] oriented programming, data structures, and algorithms.
+   - [ ]  Core Java Concepts: Begin with the basics of Java, including object oriented programming, data structures, and algorithms.
 
    - [ ]  how did you wrote the the java code was it the best solution
 
@@ -13,9 +13,9 @@
 
    - [ ]  what are the security masseurs what are the best practice  
 
-   - [ ]  Version Control with GitHub: Learn to use GitHub for version control.
+   - [x]  Version Control with GitHub: Learn to use GitHub for version control.
 
-   - [ ]  Debugging in IntelliJ IDEA
+   - [x]  Debugging in IntelliJ IDEA
 
 ## 2. Make It Visual (MIV)
 

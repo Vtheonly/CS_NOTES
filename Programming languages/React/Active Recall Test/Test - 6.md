@@ -2,14 +2,14 @@
 
 1. **What is the purpose of the `useState` hook in React?**
    - [ ] A) To manage component's lifecycle
-   - [ ] B) To handle state in functional components
+   - [x] B) To handle state in functional components
    - [ ] C) To fetch data from APIs
    - [ ] D) To manipulate the DOM directly
 
 2. **In the provided code snippet, what is the role of the function `(count) => count + 1`?**
    - [ ] A) It sets the state to a fixed value
    - [ ] B) It resets the state to the initial value
-   - [ ] C) It increments the current state value by 1
+   - [x] C) It increments the current state value by 1
    - [ ] D) It initializes the state value
 
 3. **What happens when you click the button in the `Counter` component?**
