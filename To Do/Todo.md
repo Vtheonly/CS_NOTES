@@ -1,4 +1,4 @@
-
+w
 ## 1. Intern Management Panel
 
    - [ ]  Understanding the tricks you did  like hashing and role based access the parameter sending to prevent SQL injection
