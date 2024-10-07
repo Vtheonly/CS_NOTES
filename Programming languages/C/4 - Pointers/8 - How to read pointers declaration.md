@@ -1,7 +1,3 @@
-Sure! Let's start from the beginning with a more straightforward explanation of the main idea in **Section 3.1: Interpreting Declarations** of C.
-
-### Main Idea
-
 **C declarations** are written in a way that **looks like how you use the declared variables or functions in your code**. This means when you declare something in C, the syntax of the declaration will mirror how that variable or function is actually used in expressions or statements in the program.
 
 ### Key Operators in Declarations

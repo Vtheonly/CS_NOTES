@@ -48,7 +48,7 @@ int *a = &b;  // `a` now holds the memory address of `b`
 
 ### Dereferencing a Pointer
 
-[[1 - Referencing and Dereferencing]]
+[[2 - Referencing and Dereferencing]]
 
 **Dereferencing** is the process of accessing the value that the pointer is pointing to. To dereference a pointer, you use the `*` operator again.
 
